@@ -126,7 +126,6 @@ const MainPage = () => {
             >
               <div></div>
               <div>
-                {" "}
                 <Button
                   type="primary"
                   icon={<PlusOutlined />}
